@@ -1,4 +1,4 @@
-cd~/
+cd ~/
 mkdir a
 cd a
 mkdir ~/bin
