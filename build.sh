@@ -8,7 +8,7 @@ chmod a+x ~/bin/repo
 yes | repo init -u https://github.com/Xcelerator1/patchrom -b marshmallow
 repo sync -c
 source build/envsetup.sh
-cv3750
+cd v3750
 make fullota
 sudo apt install wput
 export DATEA=$(date +"%d%m%y")
