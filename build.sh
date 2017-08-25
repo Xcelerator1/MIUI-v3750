@@ -12,4 +12,4 @@ cv3750
 make fullota
 sudo apt install wput
 export DATEA=$(date +"%d%m%y")
-wput out/f*.zip ftp://Xcelerator:2SUKY5hT0vMq@uploads.androidfilehost.com:21/Miui8-v3750-$DATEA.
+wput out/f*.zip ftp://Xcelerator:2SUKY5hT0vMq@uploads.androidfilehost.com:21/Miui8-v3750-$DATEA.zip
